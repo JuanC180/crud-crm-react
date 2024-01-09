@@ -19,5 +19,6 @@ Inicar ejecucion
  - json-server --watch db.json
 
 
-![image](https://github.com/JuanC180/crud-crm-react/assets/97410547/b67f89d1-c983-48e8-9577-003e1a27ee56)
+![image](https://github.com/JuanC180/crud-crm-react/assets/97410547/28878c97-7176-4e25-998d-8258fd5eb5e1)
+
 
