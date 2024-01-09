@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Elisa M",
+      "empresa": "Jeansemi",
+      "email": "elisa@gmail.com",
+      "telefono": "555-22-56",
+      "notas": "El proceso va procesando....",
+      "id": 7
+    },
+    {
+      "nombre": "Luis",
+      "empresa": "luis S.A.S",
+      "email": "empreserdores@gmail.com",
+      "telefono": "3124568215",
+      "notas": "Empresa numero 1",
+      "id": 8
+    },
+    {
+      "nombre": "Animation ",
+      "empresa": "ANIMATION JLX",
+      "email": "animation@animation.com",
+      "telefono": "424 45 88 99",
+      "notas": "Animation Most of the time",
+      "id": 9
+    }
+  ]
+}
